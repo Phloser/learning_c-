@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lozovskij.FS\\Source\\Repos\\learning_c-\\home_work\\home_work.csproj": {}
+    "C:\\Users\\Lozovskij.FS\\source\\repos\\learning_c-\\home_work\\home_work.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lozovskij.FS\\Source\\Repos\\learning_c-\\home_work\\home_work.csproj": {
+    "C:\\Users\\Lozovskij.FS\\source\\repos\\learning_c-\\home_work\\home_work.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lozovskij.FS\\Source\\Repos\\learning_c-\\home_work\\home_work.csproj",
+        "projectUniqueName": "C:\\Users\\Lozovskij.FS\\source\\repos\\learning_c-\\home_work\\home_work.csproj",
         "projectName": "home_work",
-        "projectPath": "C:\\Users\\Lozovskij.FS\\Source\\Repos\\learning_c-\\home_work\\home_work.csproj",
+        "projectPath": "C:\\Users\\Lozovskij.FS\\source\\repos\\learning_c-\\home_work\\home_work.csproj",
         "packagesPath": "C:\\Users\\Lozovskij.FS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lozovskij.FS\\Source\\Repos\\learning_c-\\home_work\\obj\\",
+        "outputPath": "C:\\Users\\Lozovskij.FS\\source\\repos\\learning_c-\\home_work\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lozovskij.FS\\AppData\\Roaming\\NuGet\\NuGet.Config",

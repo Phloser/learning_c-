@@ -1,0 +1,13 @@
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\obj\Debug\netcoreapp3.1\home_work.csprojAssemblyReference.cache
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\obj\Debug\netcoreapp3.1\home_work.AssemblyInfoInputs.cache
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\obj\Debug\netcoreapp3.1\home_work.AssemblyInfo.cs
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\obj\Debug\netcoreapp3.1\home_work.csproj.CoreCompileInputs.cache
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\bin\Debug\netcoreapp3.1\home_work.exe
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\bin\Debug\netcoreapp3.1\home_work.deps.json
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\bin\Debug\netcoreapp3.1\home_work.runtimeconfig.json
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\bin\Debug\netcoreapp3.1\home_work.runtimeconfig.dev.json
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\bin\Debug\netcoreapp3.1\home_work.dll
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\bin\Debug\netcoreapp3.1\home_work.pdb
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\obj\Debug\netcoreapp3.1\home_work.dll
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\obj\Debug\netcoreapp3.1\home_work.pdb
+C:\Users\Lozovskij.FS\Source\Repos\learning_c-\home_work\obj\Debug\netcoreapp3.1\home_work.genruntimeconfig.cache
