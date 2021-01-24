@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lozovskij.FS\\source\\repos\\learning_c-\\home_work\\home_work.csproj": {}
+    "C:\\Users\\Phloser\\source\\repos\\learning_c-\\home_work\\home_work.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lozovskij.FS\\source\\repos\\learning_c-\\home_work\\home_work.csproj": {
+    "C:\\Users\\Phloser\\source\\repos\\learning_c-\\home_work\\home_work.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lozovskij.FS\\source\\repos\\learning_c-\\home_work\\home_work.csproj",
+        "projectUniqueName": "C:\\Users\\Phloser\\source\\repos\\learning_c-\\home_work\\home_work.csproj",
         "projectName": "home_work",
-        "projectPath": "C:\\Users\\Lozovskij.FS\\source\\repos\\learning_c-\\home_work\\home_work.csproj",
-        "packagesPath": "C:\\Users\\Lozovskij.FS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lozovskij.FS\\source\\repos\\learning_c-\\home_work\\obj\\",
+        "projectPath": "C:\\Users\\Phloser\\source\\repos\\learning_c-\\home_work\\home_work.csproj",
+        "packagesPath": "C:\\Users\\Phloser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Phloser\\source\\repos\\learning_c-\\home_work\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lozovskij.FS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Phloser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

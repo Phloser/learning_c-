@@ -35,6 +35,12 @@ namespace home_work
 
             Console.ReadKey();
             #endregion
+            #region Task2
+            /* Рассчитать и вывести индекс массы тела (ИМТ) по формуле I=m/(h*h);
+              где m — масса тела в килограммах, h — рост в метрах*/
+            var ind = weigth / Math.Pow(higth,2);
+            Console.WriteLine("index of mass = " + ind.ToString("0.000"));
+            #endregion
         }
     }
 }
