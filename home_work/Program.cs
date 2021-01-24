@@ -40,7 +40,24 @@ namespace home_work
               где m — масса тела в килограммах, h — рост в метрах*/
             var ind = weigth / Math.Pow(higth,2);
             Console.WriteLine("index of mass = " + ind.ToString("0.000"));
+            Console.ReadKey();
             #endregion
+            #region Task3 
+            // Вычисление расстояния между точками.
+            Console.WriteLine("Введите координату x1");
+            int x1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите координату y1");
+            int y1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите координату x2");
+            int x2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите координату y2");
+            int y2 = int.Parse(Console.ReadLine());
+            var r = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
+            Console.WriteLine("Расстояние между точек = {0:f2}",r);
+            Console.ReadKey();
+            #endregion
+
+
         }
     }
 }
